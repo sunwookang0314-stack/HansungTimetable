@@ -3,6 +3,12 @@
 대학생용 시간표 + 과제 + 메모 관리 안드로이드 앱입니다.
 모바일프로그래밍 기말 프로젝트로 만들었습니다.
 
+## 화면
+
+| 시간표 | 과제 (D-day) | 메뉴 |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/timetable.png" width="240"> | <img src="docs/screenshots/assignment.png" width="240"> | <img src="docs/screenshots/drawer.png" width="240"> |
+
 ## 기능
 - 시간표: GridLayout으로 그린 주간 시간표, 과목 추가/수정/삭제
 - 과제: 목록, 검색, 마감까지 남은 날짜(D-day) 표시
@@ -17,3 +23,6 @@
 
 ## 실행
 Android Studio 에서 프로젝트를 열고 Pixel 3a 에뮬레이터로 실행했습니다.
+
+## 발표 자료
+[발표 자료 (PDF)](docs/한성캠퍼스라이프_발표.pdf)
