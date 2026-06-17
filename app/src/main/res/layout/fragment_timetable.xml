@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <!-- GridLayout: column weight 사용을 위해 alignmentMode 는 코드에서 ALIGN_BOUNDS 설정 -->
+    <GridLayout
+        android:id="@+id/gridTimetable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:useDefaultMargins="false" />
+
+</ScrollView>

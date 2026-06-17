@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/pref_category_semester"
+        app:iconSpaceReserved="false">
+
+        <EditTextPreference
+            android:key="semester"
+            android:title="@string/pref_semester_title"
+            android:defaultValue="2026-1"
+            app:iconSpaceReserved="false"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/pref_category_about"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="homepage"
+            android:title="@string/pref_homepage_title"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="version"
+            android:title="@string/pref_version_title"
+            android:summary="1.0"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

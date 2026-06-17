@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 삼성 키보드 옆 플로팅 툴바(마이크·이모지·한) 숨김 -->
+    <style name="AppEditText">
+        <item name="android:privateImeOptions">disableToolbar=true</item>
+    </style>
+</resources>

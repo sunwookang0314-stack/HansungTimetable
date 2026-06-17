@@ -1,0 +1,10 @@
+<resources>
+    <style name="Base.Theme.HansungTimetable" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+
+    <style name="Theme.HansungTimetable" parent="Base.Theme.HansungTimetable" />
+</resources>

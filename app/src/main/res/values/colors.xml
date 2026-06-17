@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 앱 메인 색상 (한성대 컬러: 파스텔 블루) -->
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent">#FF9800</color>
+
+    <!-- 시간표 셀에 사용할 8가지 파스텔 색상 -->
+    <color name="subject_1">#FFCDD2</color>
+    <color name="subject_2">#F8BBD0</color>
+    <color name="subject_3">#D1C4E9</color>
+    <color name="subject_4">#C5CAE9</color>
+    <color name="subject_5">#BBDEFB</color>
+    <color name="subject_6">#B2DFDB</color>
+    <color name="subject_7">#DCEDC8</color>
+    <color name="subject_8">#FFE0B2</color>
+
+    <!-- 시간표 그리드 라인/배경 -->
+    <color name="grid_line">#E0E0E0</color>
+    <color name="grid_header_bg">#F5F5F5</color>
+
+    <!-- 메모 카드 색상 -->
+    <color name="memo_1">#FFF9C4</color>
+    <color name="memo_2">#FFCCBC</color>
+    <color name="memo_3">#C8E6C9</color>
+    <color name="memo_4">#B3E5FC</color>
+
+    <!-- 텍스트 -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>
